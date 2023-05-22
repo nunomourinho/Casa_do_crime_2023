@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number:  
+Evidence Number:  
+Unique description: ADS
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\nuno_\OneDrive\Documentos\GitHub\ctf2023SimSic\Casa_do_crime_2023\0006\escondidos:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 403 456
+[Physical Drive Information]
+ Removable drive: False
+ Source data size: 197 MB
+ Sector count:    403456
+[Computed Hashes]
+ MD5 checksum:    c31fdea486827f4be5c2386b91848def
+ SHA1 checksum:   71edada2df03e48bea00a0fd394c78c368f4fe80
+
+Image Information:
+ Acquisition started:   Sun May 21 22:10:34 2023
+ Acquisition finished:  Sun May 21 22:10:35 2023
+ Segment list:
+  C:\Users\nuno_\OneDrive\Documentos\GitHub\ctf2023SimSic\Casa_do_crime_2023\0006\escondidos.001
+
+Image Verification Results:
+ Verification started:  Sun May 21 22:10:36 2023
+ Verification finished: Sun May 21 22:10:37 2023
+ MD5 checksum:    c31fdea486827f4be5c2386b91848def : verified
+ SHA1 checksum:   71edada2df03e48bea00a0fd394c78c368f4fe80 : verified

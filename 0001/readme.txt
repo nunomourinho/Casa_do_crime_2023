@@ -1,1 +1,1 @@
-Foi encontrado um ficheiro zip dentro da caneta usb do hacker. A primeira flag ou prova encontra-se lá dentro
+1) Foi encontrado um ficheiro zip dentro da caneta usb do hacker. A primeira flag ou prova encontra-se lá dentro
